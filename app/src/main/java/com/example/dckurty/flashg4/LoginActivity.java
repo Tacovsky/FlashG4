@@ -38,6 +38,7 @@ public class LoginActivity extends AppCompatActivity {
                                 new AuthUI.IdpConfig.Builder(AuthUI.TWITTER_PROVIDER).build()*/))
                         .build(),
                 RC_SIGN_IN);
+        //seifbseifnsefoinef
     }
 
     @Override
